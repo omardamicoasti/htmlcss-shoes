@@ -40,8 +40,13 @@ nav a {
   line-height: 50px;
   text-align: center;
   text-decoration: none;
-  font-weight: bold;
   color: black;
+}
+
+li:active a {
+  background-color: black;
+  color: white;
+  opacity: 0.7;
 }
 
 .shoes {
@@ -53,14 +58,14 @@ nav a {
 }
 
 #shoes1 {
-  background-color: red;
+  background-color: #cd5c5c;
   color: yellow;
 }
 #shoes2 {
-  background-color: green;
-  color: yellow;
+  background-color: #90ee90;
+  color: #b8860b;
 }
 #shoes3 {
-  background-color: yellow;
+  background-color: #daa520;
   color: green;
 }
