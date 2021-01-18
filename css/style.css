@@ -15,9 +15,9 @@ body {
 nav {
   position: fixed;
   width: 100%;
-  z-index: 9999;
   height: 70px;
   line-height: 70px;
+
 }
 
 .right_alignment {
@@ -36,7 +36,7 @@ nav a {
   margin: 40px 20px;
   background-color: white;
   border-radius: 50%;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.30);
+  box-shadow: 15px 15px 15px rgba(0,0,0,0.50);
   line-height: 50px;
   text-align: center;
   text-decoration: none;
